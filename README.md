@@ -1,3 +1,9 @@
+![google](https://user-images.githubusercontent.com/37672494/55264375-02e4b780-526c-11e9-8045-018d63cf91fc.png)
+
+# Googlier
+
+React app, which is using google API to search for a query. Renders 10 results on screen without any ads!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
